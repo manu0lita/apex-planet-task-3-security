@@ -1,0 +1,9 @@
+# Local artifacts
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Keep evidence placeholders but avoid accidental credential dumps
+*.pcap
+*.har
